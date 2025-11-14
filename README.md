@@ -56,7 +56,7 @@ I enjoy working at the intersection of **data engineering, analytics, and machin
 ---
 
 ## 📫 Contact  
-📧 **Email:** your-email-here  
+📧 **Email:** chirochirunga@gmail.com 
 <p>
   <a href="www.linkedin.com/in/chirunga-dzuha-184b39286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
